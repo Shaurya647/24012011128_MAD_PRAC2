@@ -80,7 +80,7 @@ When the activity is paused, stopped, restarted, or destroyed, the corresponding
 
 |  |  |  |
 | :---: | :---: | :---: |
-| <img src="Screenshot/toast_1.png" width="250"> | <img src="Screenshot/toast_2.png" width="250"> | <img src="Screenshot/toast_3.png" width="250"> |
+| <img src="P2SS/2.1.png" width="250"> | <img src="P2SS/2.2.png" width="250"> | <img src="P2SS/2.3.png" width="250"> |
 ---
 
 ## Application Details
